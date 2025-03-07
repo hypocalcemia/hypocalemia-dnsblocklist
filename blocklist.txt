@@ -1,7 +1,9 @@
-# Title: Custom DNS Blocking List
-# Description: This list is designed to block access to domains known for malware and phishing activities.
-# Author: Your Name
-# Last Updated: 08.03.2025
-
-# Blocked Domains
+!
+! Title: Custom DNS Blocking List
+! Description: This list is designed to block access to domains known for malware and phishing activities.
+! Version: 1.0.14.56
+! Homepage: https://github.com/hypocalcemia/hypocalemia-dnsblocklist
+!
+! Compiled by @adguard/hostlist-compiler v1.0.35
+!
 ||robloxplayerexe.net^
