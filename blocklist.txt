@@ -1,0 +1,7 @@
+# Title: Custom DNS Blocking List
+# Description: This list is designed to block access to domains known for malware and phishing activities.
+# Author: Your Name
+# Last Updated: 08.03.2025
+
+# Blocked Domains
+||robloxplayerexe.net^
